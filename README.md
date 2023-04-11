@@ -1,2 +1,3 @@
 # renovate-bot-multiple-docker-registries
-Example failing project for Renovate Bot when there are Docker Image dependencies from multiple Docker Registries within a single .gitlab-ci.yml file
+
+Example failing project to be used with [renovate-bot-example](https://github.com/ChrisSamo632/renovate-bot-example) as a minimal reproduction for <https://github.com/renovatebot/renovate/discussions/21415>.
