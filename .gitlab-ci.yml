@@ -5,7 +5,7 @@
 
 job1:
   extends: .job
-  image: ${CI_DEPENDENCY_PROXY_GROUP_IMAGE_PREFIX}/aquasec/trivy:0.37.0
+  image: ${CI_DEPENDENCY_PROXY_GROUP_IMAGE_PREFIX}/aquasec/trivy:0.39.1
 
 job5:
   extends: .job
